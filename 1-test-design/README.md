@@ -3,12 +3,12 @@
 **Объект тестирования:** Форма логина на сайте [Saucedemo](https://www.saucedemo.com/).
 
 ## Документы в папке
-- `mindmap-saucedemo.png` — карта мышления (декомпозиция проверок)
+- `mindmap-saucedemo.jpg` — карта мышления (декомпозиция проверок)
 - `checklist.md` — текстовый чек-лист (17 проверок)
 - `checklist-saucedemo.png` — скриншот чек-листа в Google Таблицах
 
 ## Чек-лист в Google Таблицах
-📎 [Ссылка на Google Таблицу](https://docs.google.com/spreadsheets/d/ССЫЛКА_ТВОЕЙ_ТАБЛИЦЫ/edit?usp=sharing)
+📎 [Ссылка на Google Таблицу](https://docs.google.com/spreadsheets/d/1nKlp3fjy3DI_AORkantTl9LrwQPVjxXZQl3JVaGo4tQ/edit?gid=0#gid=0)
 
 ## Важное примечание
 
